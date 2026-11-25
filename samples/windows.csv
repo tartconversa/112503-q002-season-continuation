@@ -1,0 +1,9 @@
+window,region,tier,story_episode,start,stop,revision
+W1,east,basic,1,2026-04-01,2026-05-30,r1
+W2,east,basic,2,2026-04-08,2026-04-15,r1
+W3,east,basic,2,2026-04-25,2026-05-30,r1
+W4,north,basic,1,2026-04-02,2026-05-30,r1
+W5,north,basic,2,2026-04-10,2026-05-30,r1
+W6,east,basic,3,2026-05-01,2026-05-30,r1
+W6,east,basic,3,2026-05-01,2026-05-03,r2
+W7,north,basic,3,2026-05-02,2026-05-30,r1

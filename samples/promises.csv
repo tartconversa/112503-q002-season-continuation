@@ -1,0 +1,5 @@
+notice,household,window,public_date,promised_day,state
+N1,H1,W6,2026-04-30,2026-05-05,sent
+N2,H3,W6,2026-04-30,2026-05-02,sent
+N3,H4,W7,2026-04-30,2026-05-05,sent
+N4,H5,W7,2026-04-30,2026-05-07,planned

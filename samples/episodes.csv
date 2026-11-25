@@ -1,0 +1,6 @@
+edition,segment,story_episode,begin,end,min_complete_seconds
+A,P1,1,0,2100,1890
+A,P2,2,0,2200,1980
+M,P1,1,0,2100,1890
+M,P2,2,2100,4300,1980
+B,P3,3,0,2000,1800

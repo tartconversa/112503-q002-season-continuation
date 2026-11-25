@@ -1,0 +1,5 @@
+plan,region,edition,release_day,translation_job,provider,capacity_units,available_units
+R1,east,B,2026-05-02,J1,T1,2,3
+R1,north,B,2026-05-03,J2,T1,2,3
+R2,east,B,2026-05-05,J3,T1,2,3
+R2,north,B,2026-05-07,J4,T2,1,2
